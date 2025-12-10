@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-       System.out.println("Hello from my first DevOps pipeline!");
+       System.out.println("Hello from jenkins this is a automated build test");
     }
 }
